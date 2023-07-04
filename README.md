@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Ben</h1>
-<h3 align="center">A mostly-backend but sometimes-also-frontend engineer</h3>
+<h3 align="center">A mostly-backend but sometimes-frontend engineer</h3>
 
 - 🔭 I’m currently working on [tabletop](https://tabletop-chi.vercel.app/)
 
